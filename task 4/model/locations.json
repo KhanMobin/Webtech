@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "name": "vhfhjfj",
+    "type": "hvjhvhjvjvh",
+    "cost": "123",
+    "freeSlot": "12"
+  },
+  {
+    "name": "dhaka",
+    "id": "1",
+    "type": "sedan",
+    "cost": "100",
+    "freeSlot": "100"
+  },
+  {
+    "name": "banani",
+    "id": "2",
+    "type": "SUV",
+    "cost": "200",
+    "freeSlot": "10"
+  },
+  {
+    "name": "bashundhara",
+    "id": "03",
+    "type": "car",
+    "cost": "10",
+    "freeSlot": "100"
+  },
+  { "name": "ass", "id": "101", "type": "car", "cost": "500", "freeSlot": "1" }
+]
