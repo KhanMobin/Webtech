@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "name": "Kamal uddin khan",
+        "username": "kamal123",
+        "password": "karim@123",
+        "gender": "male",
+        "salary": "10",
+        "dob": "1996-10-20",
+        "profilePicPath": "..\/uploaded_folder\/1678564393.jpg"
+    },
+    {
+        "id": "02",
+        "name": "rahmat",
+        "username": "rahmat",
+        "password": "rahmat123",
+        "gender": "male",
+        "salary": "10",
+        "dob": "1996-10-20",
+        "profilePicPath": "..\/uploaded_folder\/1678564393.jpg"
+    },
+    {
+        "id": "03",
+        "name": "uddin",
+        "username": "uddin",
+        "password": "uddin123",
+        "gender": "male",
+        "salary": "10",
+        "dob": "1996-10-20",
+        "profilePicPath": "..\/uploaded_folder\/1678564393.jpg"
+    }
+]
